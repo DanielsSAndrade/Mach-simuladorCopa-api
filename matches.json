@@ -1,1 +1,19 @@
-
+   [
+     {
+       "descricao": "Simulação Jogos do Brasil Copa 2022",
+       "local": {
+        "nome": "lusail stadium",
+         "imagem": "Todo"
+       },
+       "mandante":{
+         "nome": "Brasil",
+         "força": 5,
+         "imagem" "TODO"
+       },
+        "mandante":{
+         "nome": "Sérvia",
+         "força": 3,
+         "imagem" "TODO"
+        }
+     }
+     ]
