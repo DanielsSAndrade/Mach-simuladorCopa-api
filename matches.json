@@ -3,17 +3,17 @@
        "descricao": "Simulação Jogos do Brasil Copa 2022",
        "local": {
         "nome": "lusail stadium",
-         "imagem": "Todo"
+         "imagem": "https://p2.trrsf.com/image/fget/cf/648/0/images.terra.com/2022/08/01/1967643110-1659394410064.jpg"
        },
        "mandante":{
          "nome": "Brasil",
          "força": 5,
-         "imagem" "TODO"
+         "imagem" "https://www.bandeirasnacionais.com/data/flags/w702/br.png"
        },
         "mandante":{
          "nome": "Sérvia",
          "força": 3,
-         "imagem": "TODO"
+         "imagem": "https://www.bandeirasnacionais.com/data/flags/w702/rs.png"
         }
      }
      ]
